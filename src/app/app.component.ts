@@ -7,5 +7,5 @@ import { BehaviorSubject } from 'rxjs';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  nomeBehaviorSubjectPai = new BehaviorSubject<string>("Felipe");
+  nomeBehaviorSubjectPai = new BehaviorSubject<string>("rafa do app component");
 }
